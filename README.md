@@ -1,3 +1,3 @@
-Projeto para aprendizado de Spring Framework, utilizando Spring Boot e Rest.
+Projeto para aprendizado de Spring Framework, utilizando Spring Boot 2 e Rest.
 
 Sistema simples de Pedidos, incluindo Clientes e Pagamentos.
